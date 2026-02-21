@@ -1,10 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NK8Cif0dAoM?style=social)](https://youtu.be/NK8Cif0dAoM)
 
   <br />
   <br />
@@ -47,8 +41,5 @@ git clone https://github.com/codewithsadee/woodex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/jayaditya-malviya/).
 
-### License
-
-This project is **free to use** and does not contains any license.
